@@ -35,8 +35,8 @@ A web application that organizes user-submitted reports by type (discrimination,
 A PHP & MySQL-based reporting system with custom CSS for UI. Designed to handle report submissions, categorization, and admin responses with accurate database integration.  
 
 **Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/Rex-Galigao)
----
 
+---
 ##  CONTACT ME
 - **Email:** jeboysuganob15@gmail.com
 - **Phone number:** 09670127090
