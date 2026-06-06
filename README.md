@@ -39,6 +39,7 @@ A web application that organizes user-submitted reports by type (discrimination,
 ---
 
 ## 📫 Contact Me
-- **Email:** jeboysuganob15@gmail.com  
+- **Email:** jeboysuganob15@gmail.com
+- **Phone number:** 09670127090
 - **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552)  
 - **GitHub:** [Rex-Galigao](https://github.com/jeboysuganob15-create)
