@@ -32,7 +32,7 @@ A web application that organizes user-submitted reports by type (discrimination,
 ---
 
 ### GENDER EQUALITY REPORTING AND INCLUSION MONITORING SYSTEM (GERIMS) 
-This project introduces a Gender Equality Reporting and Inclusion Monitoring System — a secure web-based application built with PHP, MySQL, and custom CSS for a clear, user-friendly interface. The platform allows individuals to easily submit gender-related concerns or problems online, while institutions can monitor, evaluate, and improve inclusivity in a structured way. Reports are organized into categories for better clarity, and administrators can review submissions, respond directly, and track progress through accurate database integration. The goal is to create a transparent and accountable system that not only handles reports efficiently but also supports meaningful action toward gender equality.
+In this project, we are going to build a Gender Equality Reporting and Inclusion Monitoring System — a secure web-based application using PHP, MySQL, custom CSS for easy and simple front end. The provisions within the platform allow for individuals to seamlessly log concerns or issues pertaining to gender matters online and institutions can track, assess and measure institutional inclusivity in a systematic manner. Reports are categorized for more clarity, administrators can pull them up and respond directly or track the progress through integration of data into databases. The goal is to is to create a transparent and accountable system that not only handles reports efficiently but also supports meaningful action toward gender equality.
 
 **Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/Rex-Galigao)
 
