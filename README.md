@@ -12,7 +12,7 @@ I am currently building my skills in UI design and gaining some expercience with
 
 I am still learning the logic behind structuring data efficiently, especially in UI designing while also improving my skills in backend development. Through consistent practice with HTML, CSS, and MySQL.
 
-## 🛠 Skills
+## SKILLS
 **Frontend Development**  
 - HTML5  
 - CSS3  
@@ -22,23 +22,22 @@ I am still learning the logic behind structuring data efficiently, especially in
 - MySQL  
 - Laravel (basic)
 
-## 📂 Projects
+## PROJECTS
 
-### GERIMS Reporting System
-A PHP & MySQL-based reporting system with custom CSS for UI. Designed to handle report submissions, categorization, and admin responses with accurate database integration.  
-
-**Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/Rex-Galigao)
-
----
-
-### Feedback Categorization System
+### SUSTAINABLE BLUE ECONOMY NETWORK PORTAL
 A web application that organizes user-submitted reports by type (discrimination, harassment, bias). Built with PHP and MySQL, styled with CSS for clarity and usability.  
 
 **Repository:** [Feedback System](https://github.com/jeboysuganob15-create/laravel_economy)
 
 ---
 
-## 📫 Contact Me
+### GENDER EQUALITY REPORTING AND INCLUSION MONITORING SYSTEM (GERIMS) 
+A PHP & MySQL-based reporting system with custom CSS for UI. Designed to handle report submissions, categorization, and admin responses with accurate database integration.  
+
+**Repository:** [GERIMS Reporting System](https://github.com/jeboysuganob15-create/Rex-Galigao)
+---
+
+##  CONTACT ME
 - **Email:** jeboysuganob15@gmail.com
 - **Phone number:** 09670127090
 - **YouTube:** [jeboysuganob8552](https://www.youtube.com/@jeboysuganob8552)  
